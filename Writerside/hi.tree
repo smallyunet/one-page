@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="《一页》"
+                 start-page="00.md">
+
+    <toc-element topic="00.md"/>
+    <toc-element topic="01.md"/>
+    <toc-element topic="02.md"/>
+    <toc-element topic="03.md"/>
+    <toc-element topic="04.md"/>
+    <toc-element topic="05.md"/>
+    <toc-element topic="06.md"/>
+    <toc-element topic="07.md"/>
+    <toc-element topic="08.md"/>
+    <toc-element topic="09.md"/>
+    <toc-element topic="10.md"/>
+    <toc-element topic="11.md"/>
+    <toc-element topic="12.md"/>
+    <toc-element topic="13.md"/>
+    <toc-element topic="14.md"/>
+    <toc-element topic="15.md"/>
+    <toc-element topic="16.md"/>
+    <toc-element topic="17.md"/>
+    <toc-element topic="18.md"/>
+    <toc-element topic="19.md"/>
+    <toc-element topic="20.md"/>
+    <toc-element topic="21.md"/>
+    <toc-element topic="22.md"/>
+    <toc-element topic="23.md"/>
+    <toc-element topic="24.md"/>
+    <toc-element topic="25.md"/>
+</instance-profile>
